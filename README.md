@@ -17,8 +17,9 @@
 <p align='center'>I'm a Software Engineer based out of Denver, Colorado. I'm happiest when I am working with fellow software engineers, creating amazing applications.</p>
 
 <p align='center'>
-  <a href="[https://www.isaac-hathaway.com/{:target='_blank'}]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  <a href="https://www.isaac-hathaway.com/" target="_blank">
+  
+  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139{:target=_blank'})
   </a>
   <a href="https://www.instagram.com/isaac.hathaway28" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
